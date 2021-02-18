@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(7, 7, 7);
+   color: antiquewhite;
+  
+}
+i{
+    font-size: x-large;
+}
+img {
+    border: black solid;
+}
+body{
+    background-color: rgba(240, 239, 190, 0.459);
+}
+h2{
+    font-family: fantasy;
+    font-size: xx-large;
+    border:solid;
+border-color: rgb(12, 147, 165);
+    background-color: rgb(207, 221, 216);
+}
+.grid{
+    display:flex
+    
+}
